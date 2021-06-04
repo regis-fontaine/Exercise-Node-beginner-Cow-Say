@@ -3,6 +3,4 @@ const user = {
   campus: "Remote"  
 };
 
-module.exports = {
-  user,
-};
+module.exports = user;
